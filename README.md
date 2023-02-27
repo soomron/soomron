@@ -1,6 +1,6 @@
 # 🌐💻 Najib Soomro
 
-### **'Digital Craftsman'**
+**`Digital Enthusiast (MERN Stack Developer)`**
 
 ### Hi there 👋
 
