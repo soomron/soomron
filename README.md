@@ -1,6 +1,6 @@
-# 🌐💻 Najib Soomro
+# 🌐 Najib Soomro
 
-**`Digital Enthusiast (MERN Stack Developer)`**
+**`Digital Enthusiast (MERN Stack Developer 💻 | )`**
 
 ### Hi there 👋
 
