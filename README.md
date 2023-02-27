@@ -1,6 +1,6 @@
 # 🌐💻 Najib Soomro
 
-**'Digital Craftsman'**
+### **'Digital Craftsman'**
 
 ### Hi there 👋
 
