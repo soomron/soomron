@@ -2,7 +2,7 @@
 # < Najib Soomro />
 
 
-**` :electron: Digital Enthusiast (MERN Stack Developer 👨‍💻 | BEng Mechanical Engineering 🛠️ | Wanderlust Traveller ✈️ | Avid Photographer 📸)`**
+**`Digital Enthusiast :electron: (MERN Stack Developer 👨‍💻 | BEng Mechanical Engineering 🛠️ | Wanderlust Traveller ✈️ | Avid Photographer 📸)`**
 
 <p>&nbsp;</p>
 
@@ -12,7 +12,7 @@ I am  a junior full-stack developer
 
 <p align="left">
     <a href="https://www.linkedin.com/in/najibsoomro" >
-      <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
+      <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin_icon_circle&label=LinkedIn&logoColor=white" /></a>
 </p>
 
 <p>&nbsp;</p>
