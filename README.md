@@ -41,7 +41,7 @@ I am  a junior full-stack developer ...
     <a href="https://www.linkedin.com/in/najibsoomro">
       <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/soomron?color=000dbd&labelColor=1155ba&style=for-the-badge&logo=linkedin_icon_circle&label=LinkedIn&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/najibsoomro">
-      <img alt="LinkedIn" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/github/followers/soomron?color=000000&labelColor=3d3d3d&style=for-the-badge&logo=instalogo&label=Instagram" /></a>
+      <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/github/followers/soomron?color=000000&labelColor=3d3d3d&style=for-the-badge&logo=instalogo&label=Instagram" /></a>
 </p>
 
 
