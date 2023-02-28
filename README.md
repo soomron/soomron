@@ -1,8 +1,15 @@
 
-# <p align="center"> < Najib Soomro /> </p>
+# <p align="center"> < Najib Soomro /> </p> 
 
 
-**`Digital Enthusiast :electron: (MERN Stack Developer 👨‍💻 | BEng Mechanical Engineering 🛠️ | Wanderlust Traveller ✈️ | Avid Photographer 📸)`**
+**`Digital Enthusiast :electron: (MERN Stack Developer 👨‍💻 | Wanderlust Traveller ✈️ | Avid Photographer 📸)`**
+<p> 
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+</p>
+
 
 <p>&nbsp;</p>
 
@@ -13,14 +20,25 @@
 
 <p>&nbsp;</p>
 
-I am  a junior full-stack developer 
+I am  a junior full-stack developer ...
 
 #
 
+<p>&nbsp;</p>
+
+
+## Social Media Handles
+
+
+
 <p align="left">
     <a href="https://www.linkedin.com/in/najibsoomro">
-      <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin_icon_circle&label=LinkedIn&logoColor=white" /></a>
+      <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/soomron?color=000dbd&labelColor=1155ba&style=for-the-badge&logo=linkedin_icon_circle&label=LinkedIn&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/najibsoomro">
+      <img alt="LinkedIn" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/github/followers/soomron?color=000000&labelColor=3d3d3d&style=for-the-badge&logo=instalogo&label=Instagram" /></a>
 </p>
+
+
 
 <p>&nbsp;</p>
 
