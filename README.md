@@ -6,6 +6,13 @@
 
 <p>&nbsp;</p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=%20I%20am%20a%20junior%20full-stack%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=450&height=45&color=FEFCD7&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<p>&nbsp;</p>
+
 I am  a junior full-stack developer 
 
 #
