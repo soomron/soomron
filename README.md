@@ -2,7 +2,7 @@
 # < Najib Soomro />
 
 
-**`Digital Enthusiast (MERN Stack Developer 💻 | Wanderlust Traveller ✈️ | Avid Photographer 📸 | BEng Mechanical Engineering 🛠️)`**
+**`Digital Enthusiast (MERN Stack Developer 💻 | BEng Mechanical Engineering 🛠️ | Wanderlust Traveller ✈️ | Avid Photographer 📸)`**
 
 <p>&nbsp;</p>
 
