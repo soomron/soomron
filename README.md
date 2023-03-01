@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%20I%20am%20a%20junior%20full-stack%20developer;Specialising%20in%20MongoDB%20Express%20React%20NodeJS%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=1000&height=45&color=6500b3&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=%20I%20am%20a%20junior%20full-stack%20developer;Specialising%20in%20MongoDB%20Express%20React%20NodeJS%20;Always%20learning%20new%20things;Connect%20with%20me%20below!&font=Fira%20Code&center=true&width=1000&height=45&color=6500b3&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p>&nbsp;</p>
