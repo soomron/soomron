@@ -1,5 +1,5 @@
 
-# <p align="center"> < Najib Soomro /> </p>  
+# <p align="center"> <> Najib Soomro </> </p>  
 
 
 **`Digital Enthusiast :electron: (MERN Stack Developer 👨‍💻 | Wanderlust Traveller ✈️ | Avid Photographer 📸)`**
