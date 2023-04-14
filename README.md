@@ -73,7 +73,7 @@ I am  a junior full-stack developer seeking entry level developer opportunities 
 
 <details>
   <summary><h3>My Coding Journey</h3></summary>
-  Embarking on a Full-Stack Developer Bootcamp paved my journey into the tech industry as a novice developer striving to progress and enhance my proficiency in web development
+  Embarking on a Full-Stack Developer Bootcamp paved my journey into the tech industry as a novice developer striving to progress and enhance my proficiency in web development.
 
 
 
