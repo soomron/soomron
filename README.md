@@ -26,7 +26,7 @@
 
 <p>&nbsp;</p>
 
-I am  a junior full-stack developer ...
+I am  a junior full-stack developer seeking entry level developer opportunities to enhance my existing skills in frontend and backend development environments within a practical setting. 
 
 #
 
