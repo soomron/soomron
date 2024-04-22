@@ -1,5 +1,5 @@
 
-# <p align="center"> <> Najib Soomro </> </p>  
+# <p align="center"> { Name: "Najib Soomro" } </p>  
 
 
 **`Tech Enthusiast & Data Geek - (Data Analyst 👨‍💻)`**
