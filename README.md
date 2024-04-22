@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+junior+data+analyst;Specialising+in+Microsoft+Excel,+Tableau,+PowerBI,+and+Python;Always+learning+new+things;Connect+with+me+below!+:D&font=Fira%20Code&center=true&width=1000&height=45&color=11ff00&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+junior+data+analyst;Specialising+in+MySQL,+Microsoft+Excel,+Tableau,+PowerBI,+and+Python;Always+learning+new+things;Connect+with+me+below!+:D&font=Fira%20Code&center=true&width=1000&height=45&color=11ff00&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p>&nbsp;</p>
