@@ -56,6 +56,7 @@ I am  a junior data analyst seeking entry-level opportunities to enhance my exis
 <p>&nbsp;</p>
 
 <img align="left" alt="HTML5" width="40px" style="paddding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="MySQL Workbench" width="40px" style="paddding-right:10px;" src="https://iconduck.com/icons/13134/mysql-original-wordmark" />
 <img align="left" alt="CSS3" width="40px" style="paddding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JS" width="40px" style="paddding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="MongoDB" width="40px" style="paddding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
