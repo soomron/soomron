@@ -2,7 +2,7 @@
 # <p align="center"> <> Najib Soomro </> </p>  
 
 
-**`Tech Enthusiast & Digital Craftsman - (MERN Stack Developer 👨‍💻)`**
+**`Tech Enthusiast & Data Geek - (Data Analyst 👨‍💻)`**
 <p> 
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -26,7 +26,7 @@
 
 <p>&nbsp;</p>
 
-I am  a junior full-stack developer seeking entry level developer opportunities to enhance my existing skills in frontend and backend development environments within a practical setting. 
+I am  a junior data analyst seeking entry-level opportunities to enhance my existing skills in data analytics and visualisation to promote data-driven decision-making through numerical inference and unique business insights. 
 
 #
 
